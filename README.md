@@ -1,0 +1,1 @@
+For my bachelor’s thesis, I conducted a data-driven diagnostic on how analytics impacts market decision-making in Mexico's tech sector. The study analyzed international leaders like Netflix, Spotify, and Amazon to benchmark best practices.
